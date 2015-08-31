@@ -16,27 +16,27 @@
   id: 1
   name: "Matthias"
   surname: "Friedrich"
-  title: "Android Developer/Enthusiast"
+  title: "Android Developer @ Jimdo"
   thumbnailUrl: matthias.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+MatthiasFriedrich"}
-    - {name: "twitter", link: "https://twitter.com/peacei"}
+    - {name: "twitter", link: "https://twitter.com/mtthsfrdrch"}
     - {name: "github", link: "https://github.com/mtthsfrdrch"}
 - 
   id: 2
-  name: "Ciprian"
-  surname: "Ursu"
-  title: "Software Developer"
-  thumbnailUrl: ciprian.jpg
+  name: "Serj"
+  surname: "Lotutovici"
+  title: "Android Developer @ Xing"
+  thumbnailUrl: serj.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+CiprianUrsu"}
-    - {name: "twitter", link: "https://twitter.com/ursucip"}
+    - {name: "google-plus", link: "https://google.com/+LotutoviciSerj"}
+    - {name: "twitter", link: "https://twitter.com/SLotutovici"}
 - 
   id: 3
   name: "Ingo"
